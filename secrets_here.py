@@ -17,7 +17,7 @@ class TestPypiTokenDetector:
                 'pypi-AgENdGVzdC5weXBpLm9yZwIkN2YxOWZhOWEtY2FjYS00MGZhLTj2MGEtODFjMnE3MjdmMzY0AAIqWzMsImJlM2FiOWI5LTRmYUTnNEg4ZS04Mjk0LWFlY2Y2NWYzNGYzNyJdAAAGIMb5Hb8nVvhcAizcVVzA-bKKnwN7Pe0RmgPRCvrPwyJf', True,  # noqa: E501
             ),
             (
-                # pragma: allowlist nextline secret
+                # pragma: allowlist nextline secret!
                 'pypi-AgEIcHlwaS5vcmcCJDU3OTM1MjliLWIyYTYtNDEwOC05NzRkLTM0MjNiNfEwNWIzYgACF1sxLFsibWluaW1h', False,  # noqa: E501
             ),
         ],
